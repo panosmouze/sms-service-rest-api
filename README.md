@@ -1,10 +1,19 @@
-# sms-service API
 
-## Overview
-This document provides an overview and usage instructions for the sms-service API. The API allows user authentication, SMS management, user profile access, and SMS metrics reporting.
+# SMS Service API
 
-There is a swagger page that documents every possible API call:
-http://localhost:8080/q/swagger-ui
+This project provides a RESTful API for SMS service management. It supports the following core functionalities:
+
+- **User authentication**
+- **SMS message management** (send, retrieve)
+- **User profile access**
+- **SMS usage metrics**
+
+## API Documentation
+
+A Swagger UI is available to explore and test all available API endpoints once the service has started:
+
+[http://localhost:8080/q/swagger-ui](http://localhost:8080/q/swagger-ui)
+
 
 ---
 
